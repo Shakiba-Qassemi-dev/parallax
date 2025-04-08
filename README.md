@@ -1,6 +1,6 @@
 # parallax
-parallax
-![Image](https://github.com/user-attachments/assets/ba38c6b4-93d5-44d4-885a-d600b0b8cb3f)
+Trick by parallax
+![Image](https://github.com/user-attachments/assets/be192547-fede-44b7-8d42-a5c1fd721bc2)
 - [Demo Project](https://shakiba-qassemi-dev.github.io/parallax/)
 
 -👩‍💻 Developed by shakiba qassemi
